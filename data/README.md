@@ -9,7 +9,7 @@ This repository contains data from the study *"Modeling Decision-Making Under Un
 
 ## Columns
 
-| Column Name  | Description |
+|   | Description |
 |-------------|------------|
 | **choice** | Binary (1/0) – Did the participant choose the lottery? |
 | **value** | Outcome level (5/8/12/25). In the medical dataset, participants saw qualitative outcomes instead of these numerical values. |
