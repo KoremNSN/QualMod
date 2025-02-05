@@ -28,4 +28,4 @@ Traditional decision-making models rely on **quantitative** outcomes, yet many r
 ## Citation  
 If you use this repository, please cite:  
 
-**Korem, N.,** Duek, O., Jia, R., Wertheimer, E., Metviner, S., Grubb, M., & Levy, I. (2024). Modeling Decision-Making Under Uncertainty with Qualitative Outcomes. (Accpted), PLOS Computational Biology
+**Korem, N.,** Duek, O., Jia, R., Wertheimer, E., Metviner, S., Grubb, M., & Levy, I. *(Accepted)*. Modeling Decision-Making Under Uncertainty with Qualitative Outcomes. *PLOS Computational Biology*
