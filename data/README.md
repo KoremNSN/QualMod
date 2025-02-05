@@ -34,4 +34,5 @@ This dataset is useful for studying:
 
 ## Citing this Dataset
 If you use this dataset, please cite:
-*Korem, N.,* Duek, O., Jia, R., Wertheimer, E., Metviner, S., Grubb, M., & Levy, I. (2024). Modeling Decision-Making Under Uncertainty with Qualitative Outcomes. (Accpted), PLOS Computational Biology
+
+**Korem, N.,** Duek, O., Jia, R., Wertheimer, E., Metviner, S., Grubb, M., & Levy, I. (2024). Modeling Decision-Making Under Uncertainty with Qualitative Outcomes. (Accpted), PLOS Computational Biology
